@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=IO3 Pin=U2-3
-Added Pin To Net: NetName=IO14 Pin=U2-3
-Change Net Name : Old Net Name=IO248 New Net Name=IO48
-Change Net Name : Old Net Name=RXD New Net Name=RXD_N
-Change Net Name : Old Net Name=TXD New Net Name=TXD_P
-Added Member To Class: ClassName=Sheet1 Member=Component R10 512

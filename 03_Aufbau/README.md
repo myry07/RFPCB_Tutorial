@@ -1,5 +1,5 @@
 <div align=center>
-Info für diese Platine: 
+Info für diese Platine:  
 </div>  
 PCB Dicke -> 1.6mm  
 50ohm Single -> 0.1427mm  

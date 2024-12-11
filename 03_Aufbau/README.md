@@ -1,5 +1,5 @@
 <div align=center>
-<font size=10>
+<font color=Blue>
 
 Info für diese Platine: 
 

@@ -1,10 +1,7 @@
 <div align=center>
 Info für diese Platine: 
 </div>  
-
-<font color=Blue>
 PCB Dicke -> 1.6mm  
-</font> 
 50ohm Single -> 0.1427mm  
 100ohm Diff & 0.2mm Abstand -> 0.1151mm  
 

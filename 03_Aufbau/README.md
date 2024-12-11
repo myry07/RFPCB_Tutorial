@@ -1,5 +1,9 @@
 <div align=center>
-Info für diese Platine:  
+<font size=5>
+
+Info für diese Platine: 
+
+</font> 
 </div>  
 
 PCB Dicke -> 1.6mm  

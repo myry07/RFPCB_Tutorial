@@ -1,5 +1,5 @@
 <div align=center>
-<font size=5>
+<font size=10>
 
 Info für diese Platine: 
 

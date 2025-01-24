@@ -1,0 +1,400 @@
+Added Component: Designator=C1(C0402)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180910/C282072_33301C7F631E79921B82A8DAC6BCC5B3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ±10% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0402)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180910/C282072_33301C7F631E79921B82A8DAC6BCC5B3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ±10% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H3(HDR-TH_5P-P2.00-V-M)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circluar Pins/Square Pins"; Value = "Square Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200518/C541858_7610F54454E936EFCDE06B655DF7C837.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "PZ200V-11-05P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??:2mm 1x5P ?? ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of End Connection Pin"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of Mating Pin"; Value = "3.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XFCN(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "PZ200V-11-05P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "5P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "Plugin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Structure"; Value = "1x5P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Soldering Temperature(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??,P=2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C541859"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PZ200V-11-05P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=H4(HDR-TH_5P-P2.00-V-M)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circluar Pins/Square Pins"; Value = "Square Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200518/C541858_7610F54454E936EFCDE06B655DF7C837.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "PZ200V-11-05P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "??:2mm 1x5P ?? ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of End Connection Pin"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of Mating Pin"; Value = "3.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XFCN(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "PZ200V-11-05P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "5P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "Plugin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40?~+105?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Structure"; Value = "1x5P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Soldering Temperature(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??,P=2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C541859"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PZ200V-11-05P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=RF9(SMA-TH_BWSMA-KE-Z001)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20221228/40BF41E56A06003A0210E1785CA66EA6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BWSMA-KE-Z001_C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency-Max"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Diameter"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Length/Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "?? SMA ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-65?~+165?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RF Series"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Soldering Temperature(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Added Component: Designator=RF10(SMA-TH_BWSMA-KE-Z001)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20221228/40BF41E56A06003A0210E1785CA66EA6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BWSMA-KE-Z001_C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency-Max"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Diameter"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Length/Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "?? SMA ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-65?~+165?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RF Series"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Soldering Temperature(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Added Component: Designator=RF11(SMA-TH_BWSMA-KE-Z001)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20221228/40BF41E56A06003A0210E1785CA66EA6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BWSMA-KE-Z001_C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency-Max"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Diameter"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Length/Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "?? SMA ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-65?~+165?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RF Series"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Soldering Temperature(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Added Component: Designator=RF12(SMA-TH_BWSMA-KE-Z001)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20221228/40BF41E56A06003A0210E1785CA66EA6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BWSMA-KE-Z001_C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency-Max"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Diameter"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Length/Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "?? SMA ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-65?~+165?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RF Series"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Soldering Temperature(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Added Component: Designator=RF13(SMA-TH_BWSMA-KE-Z001)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20221228/40BF41E56A06003A0210E1785CA66EA6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BWSMA-KE-Z001_C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency-Max"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Diameter"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Length/Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "?? SMA ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-65?~+165?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RF Series"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Soldering Temperature(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Added Component: Designator=RF14(SMA-TH_BWSMA-KE-Z001)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20221228/40BF41E56A06003A0210E1785CA66EA6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BWSMA-KE-Z001_C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency-Max"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Diameter"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Length/Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "?? SMA ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-65?~+165?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RF Series"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Soldering Temperature(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Added Component: Designator=RF15(SMA-TH_BWSMA-KE-Z001)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20221228/40BF41E56A06003A0210E1785CA66EA6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BWSMA-KE-Z001_C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency-Max"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Diameter"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Length/Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "?? SMA ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-65?~+165?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RF Series"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Soldering Temperature(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Added Component: Designator=RF16(SMA-TH_BWSMA-KE-Z001)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20221228/40BF41E56A06003A0210E1785CA66EA6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BWSMA-KE-Z001_C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency-Max"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Diameter"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Length/Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "?? SMA ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS(????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-65?~+165?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RF Series"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Soldering Temperature(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C496549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Added Component: Designator=U2(chip1)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetH3_1 Pin=H3-1
+Added Pin To Net: NetName=NetH3_2 Pin=H3-2
+Added Pin To Net: NetName=NetC1_2 Pin=H3-3
+Added Pin To Net: NetName=NetH3_4 Pin=H3-4
+Added Pin To Net: NetName=NetH4_1 Pin=H4-1
+Added Pin To Net: NetName=NetH4_2 Pin=H4-2
+Added Pin To Net: NetName=NetC2_2 Pin=H4-3
+Added Pin To Net: NetName=NetH4_4 Pin=H4-4
+Added Pin To Net: NetName=GND Pin=RF9-1
+Added Pin To Net: NetName=GND Pin=RF9-2
+Added Pin To Net: NetName=GND Pin=RF9-3
+Added Pin To Net: NetName=GND Pin=RF9-4
+Added Pin To Net: NetName=R5 Pin=RF9-5
+Added Pin To Net: NetName=GND Pin=RF10-1
+Added Pin To Net: NetName=GND Pin=RF10-2
+Added Pin To Net: NetName=GND Pin=RF10-3
+Added Pin To Net: NetName=GND Pin=RF10-4
+Added Pin To Net: NetName=R1_P Pin=RF10-5
+Added Pin To Net: NetName=GND Pin=RF11-1
+Added Pin To Net: NetName=GND Pin=RF11-2
+Added Pin To Net: NetName=GND Pin=RF11-3
+Added Pin To Net: NetName=GND Pin=RF11-4
+Added Pin To Net: NetName=R6 Pin=RF11-5
+Added Pin To Net: NetName=GND Pin=RF12-1
+Added Pin To Net: NetName=GND Pin=RF12-2
+Added Pin To Net: NetName=GND Pin=RF12-3
+Added Pin To Net: NetName=GND Pin=RF12-4
+Added Pin To Net: NetName=R1_N Pin=RF12-5
+Added Pin To Net: NetName=GND Pin=RF13-1
+Added Pin To Net: NetName=GND Pin=RF13-2
+Added Pin To Net: NetName=GND Pin=RF13-3
+Added Pin To Net: NetName=GND Pin=RF13-4
+Added Pin To Net: NetName=R7 Pin=RF13-5
+Added Pin To Net: NetName=GND Pin=RF14-1
+Added Pin To Net: NetName=GND Pin=RF14-2
+Added Pin To Net: NetName=GND Pin=RF14-3
+Added Pin To Net: NetName=GND Pin=RF14-4
+Added Pin To Net: NetName=R2_N Pin=RF14-5
+Added Pin To Net: NetName=GND Pin=RF15-1
+Added Pin To Net: NetName=GND Pin=RF15-2
+Added Pin To Net: NetName=GND Pin=RF15-3
+Added Pin To Net: NetName=GND Pin=RF15-4
+Added Pin To Net: NetName=R8 Pin=RF15-5
+Added Pin To Net: NetName=GND Pin=RF16-1
+Added Pin To Net: NetName=GND Pin=RF16-2
+Added Pin To Net: NetName=GND Pin=RF16-3
+Added Pin To Net: NetName=GND Pin=RF16-4
+Added Pin To Net: NetName=R2_P Pin=RF16-5
+Added Pin To Net: NetName=R1_P Pin=U2-1
+Added Pin To Net: NetName=R1_P Pin=U2-1
+Added Pin To Net: NetName=R1_N Pin=U2-2
+Added Pin To Net: NetName=R1_N Pin=U2-2
+Added Pin To Net: NetName=R7 Pin=U2-3
+Added Pin To Net: NetName=R7 Pin=U2-3
+Added Pin To Net: NetName=R8 Pin=U2-4
+Added Pin To Net: NetName=R8 Pin=U2-4
+Added Pin To Net: NetName=NetH4_1 Pin=U2-5
+Added Pin To Net: NetName=NetH4_1 Pin=U2-5
+Added Pin To Net: NetName=NetH4_2 Pin=U2-6
+Added Pin To Net: NetName=NetH4_2 Pin=U2-6
+Added Pin To Net: NetName=NetC2_2 Pin=U2-7
+Added Pin To Net: NetName=NetC2_2 Pin=U2-7
+Added Pin To Net: NetName=NetH4_4 Pin=U2-8
+Added Pin To Net: NetName=NetH4_4 Pin=U2-8
+Added Pin To Net: NetName=R5 Pin=U2-9
+Added Pin To Net: NetName=R5 Pin=U2-9
+Added Pin To Net: NetName=R6 Pin=U2-10
+Added Pin To Net: NetName=R6 Pin=U2-10
+Added Pin To Net: NetName=R2_P Pin=U2-11
+Added Pin To Net: NetName=R2_P Pin=U2-11
+Added Pin To Net: NetName=R2_N Pin=U2-12
+Added Pin To Net: NetName=R2_N Pin=U2-12
+Added Pin To Net: NetName=NetH3_1 Pin=U2-13
+Added Pin To Net: NetName=NetH3_1 Pin=U2-13
+Added Pin To Net: NetName=NetH3_2 Pin=U2-14
+Added Pin To Net: NetName=NetH3_2 Pin=U2-14
+Added Pin To Net: NetName=NetC1_2 Pin=U2-15
+Added Pin To Net: NetName=NetC1_2 Pin=U2-15
+Added Pin To Net: NetName=NetH3_4 Pin=U2-16
+Added Pin To Net: NetName=NetH3_4 Pin=U2-16
+Added Member To Class: ClassName=Sheet2 Member=Component C1 100nF
+Added Member To Class: ClassName=Sheet2 Member=Component C2 100nF
+Added Member To Class: ClassName=Sheet2 Member=Component H3 PZ200V-11-05P
+Added Member To Class: ClassName=Sheet2 Member=Component H4 PZ200V-11-05P
+Added Member To Class: ClassName=Sheet2 Member=Component RF9 BWSMA-KE-Z001
+Added Member To Class: ClassName=Sheet2 Member=Component RF10 BWSMA-KE-Z001
+Added Member To Class: ClassName=Sheet2 Member=Component RF11 BWSMA-KE-Z001
+Added Member To Class: ClassName=Sheet2 Member=Component RF12 BWSMA-KE-Z001
+Added Member To Class: ClassName=Sheet2 Member=Component RF13 BWSMA-KE-Z001
+Added Member To Class: ClassName=Sheet2 Member=Component RF14 BWSMA-KE-Z001
+Added Member To Class: ClassName=Sheet2 Member=Component RF15 BWSMA-KE-Z001
+Added Member To Class: ClassName=Sheet2 Member=Component RF16 BWSMA-KE-Z001
+Added Member To Class: ClassName=Sheet2 Member=Component U2 chip1

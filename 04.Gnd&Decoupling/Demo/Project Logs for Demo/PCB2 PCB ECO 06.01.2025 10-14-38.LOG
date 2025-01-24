@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=R1_P Pin=Chip-1
+Removed Pin From Net: NetName=R1_P Pin=Chip-1
+Removed Pin From Net: NetName=R1_N Pin=Chip-2
+Removed Pin From Net: NetName=R1_N Pin=Chip-2
+Removed Pin From Net: NetName=R7 Pin=Chip-3
+Removed Pin From Net: NetName=R7 Pin=Chip-3
+Removed Pin From Net: NetName=R8 Pin=Chip-4
+Removed Pin From Net: NetName=R8 Pin=Chip-4
+Removed Pin From Net: NetName=R5 Pin=Chip-9
+Removed Pin From Net: NetName=R5 Pin=Chip-9
+Removed Pin From Net: NetName=R6 Pin=Chip-10
+Removed Pin From Net: NetName=R6 Pin=Chip-10
+Removed Pin From Net: NetName=R2_P Pin=Chip-11
+Removed Pin From Net: NetName=R2_P Pin=Chip-11
+Removed Pin From Net: NetName=R2_N Pin=Chip-12
+Removed Pin From Net: NetName=R2_N Pin=Chip-12
+Removed Member From Class: ClassName=Sheet2 Member=C1
+Removed Member From Class: ClassName=Sheet2 Member=C2
+Removed Member From Class: ClassName=Sheet2 Member=Chip
+Removed Member From Class: ClassName=Sheet2 Member=DC
+Removed Member From Class: ClassName=Sheet2 Member=H3
+Change Component Designator: OldDesignator=EX_2 NewDesignator=RF14
+Change Component Designator: OldDesignator=RX_1 NewDesignator=RF10
+Change Component Designator: OldDesignator=RX_2 NewDesignator=RF16
+Change Component Designator: OldDesignator=TX_1 NewDesignator=RF12
+Added Component: Designator=U1(CHIP2)
+Added Member To Class: ClassName=Sheet2 Member=Component U1 chip2
